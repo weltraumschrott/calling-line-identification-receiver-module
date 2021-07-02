@@ -41,7 +41,6 @@ If the HT9032 does not work (as expected) turning it off and on again might help
 
 - add resilience to erroneous call set-up message or transmitted parameters therein (check for valid checksum, parameter length, ASCII characters)
 - maybe save more than just the parameters of the last call
-- maybe change capacitors C2, C3 for less beefy ones (small 10n capacitors with 5mm pitch are probably absolutely okay)
 
 
 ## References (inspiration and further reading)

@@ -1,9 +1,9 @@
 Reference,Quantity,Value,Description
 C1,1,100n 250V,CBB; P: 10mm
-C2 C3,2,47n,CBB; P: 10mm
+C2 C3,2,10n,CBB; P: 5mm
 C4 C5,2,100n,Ceramic; P: 5mm
 C6 C7,2,30p,Ceramic; P: 5mm
-D1 D2,2,4V7 1W,Zener; DO-41; P: 7.62mm
+D1 D2,2,4V7,Zener; DO-41; P: 7.62mm
 IC1,1,HT9032D,Holtek HT9032D
 J1 J2,2,RJ12,RJ12 6P6C (see ›Resources‹ directory)
 J3,1,01x03,2.54mm pin header
